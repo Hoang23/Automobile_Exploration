@@ -1,1 +1,1 @@
-Basic exploration of automobile data.
+Cleaning and exploration of automobile data.
